@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://liangchow.github.io/sitemap.xml
