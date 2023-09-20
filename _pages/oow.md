@@ -21,7 +21,7 @@ I am a climber, dinghy sailor/instructor, cyclist, barista (coffee snob), rusty 
         {% include figure.html path="assets/img/oow_3.jpg" title="Dive masters" class="img-fluid rounded z-depth-1" %}
     </div>
 	<div class="col-sm mt-4 mt-md-0">
-        {% include figure.html path="assets/img/oow_4.jpg" title="Bali rider" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/oow_4.JPG" title="Bali rider" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
