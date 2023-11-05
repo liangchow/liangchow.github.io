@@ -16,7 +16,7 @@ My motivation was simple: to make my life processing data, especially historical
 
 Extracting the data involves a number of imaging techniques, including thresholding, color filtering, and noise reduction, to trace the data line. 
 Once the desired data line is traced, it is then scaled to the input scales. Figure 1 below presents an example CPT tip stress plot. 
-The left figure is the original plot as included in reports, and the right figure contains features extracted from the original plot.
+The left figure is the original figure as included in reports, and the right is overlaid with the extracted features.
 
 
 <div class="row justify-content-sm-center">
@@ -32,10 +32,10 @@ The left figure is the original plot as included in reports, and the right figur
 </div>
 
 Plotting the actual data against the extracted data is a direct way to evaluate the linearity of two datasets. 
-Furthermore, Pearson correlation analysis yields , *r* = .979, *p* = .000, indicating that both data are strongly correlated and statistically significant.
+Furthermore, Pearson correlation analysis yields a result of  *r* = .979, *p* = .000, indicating that both data are strongly correlated and statistically significant.
 Although this digitizing tool is not perfect, the output data, including tip stress (q<sub>t</sub>), sleeve friction (f<sub>s</sub>), and pore pressure (u), 
 are around 5% error or less for use in analysis or design. As of now, the program is limited to PDFs and software-generated images. 
-Further improvements in the development of distorted and scanned CPT plots, and data capturing are under process.
+Further improvements in the development of distorted and scanned CPT plots, and better data capturing are under process.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
