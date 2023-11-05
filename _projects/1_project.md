@@ -31,11 +31,11 @@ The left figure is the original plot as included in reports, and the right figur
     Figure 1. (Left) Sample CPT plot, and (Right) Extracted features.
 </div>
 
-Plotting the actual data against extracted data is a direct way to evaluate the linearity between two sets of data. 
-Furthermore, Pearson correlation analysis indicates that both data are strongly correlated and statistically significant, *r* = .979, *p* = .000.
-As of now, the program is limited to PDF and images produced by software. Scanned CPT plots or distorted images are still being developed.
+Plotting the actual data against the extracted data is a direct way to evaluate the linearity of two datasets. 
+Furthermore, Pearson correlation analysis yields , *r* = .979, *p* = .000, indicating that both data are strongly correlated and statistically significant.
 Although this digitizing tool is not perfect, the output data, including tip stress (q<sub>t</sub>), sleeve friction (f<sub>s</sub>), and pore pressure (u), 
-are around 5% error or less for used in analysis or design. 
+are around 5% error or less for use in analysis or design. As of now, the program is limited to PDFs and software-generated images. 
+Further improvements in the development of distorted and scanned CPT plots, and data capturing are under process.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
