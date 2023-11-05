@@ -1,0 +1,44 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: 
+#<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: profile/lchow.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>Oakland, California</p>
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+I am a geotechnical engineer. Having an experimental research background, I have spent the last 10 years working on instrumentation and numerical modeling of real-world problems. 
+My interests are in the mechanical responses of geo-materials and, more recently, wave mechanics.
+
+Previously, I completed my BSc from the University of Minnesota-Twin Cities and MSc from the University of Illinois at Urbana-Champaign. I try to be creative with my work. 
+In 2021, I started a few personal *fun* projects using Python and the data-driven approaches.
+
+<br/>
+<br/>
+
+### **Professional Services**
+2022 &nbsp;&nbsp;&nbsp;&nbsp;	President, [Minnesota Geotechnical Society](https://www.mgs-gi.com) <br/>
+2022 &nbsp;&nbsp;&nbsp;&nbsp;	Planning Committee, [University of Minnesota 71<sup>st</sup> Geotechnical Engineering Conference](https://www.mgs-gi.com/events/2023-conference) <br/>
+2021 &nbsp;&nbsp;&nbsp;&nbsp;	Vice President, Minnesota Geotechnical Society <br/>
+2021 &nbsp;&nbsp;&nbsp;&nbsp;	Planning Committee, [University of Minnesota 70<sup>th</sup> Geotechnical Engineering Conference](https://www.mgs-gi.com/events/2022-conference) <br/>
+2020 &nbsp;&nbsp;&nbsp;&nbsp;	Program Chair, Minnesota Geotechnical Society <br/>
+2019 &nbsp;&nbsp;&nbsp;&nbsp;	Member, [ASCE Geo-Institute (National) Soil Improvement Technical Committee](https://www.geoinstitute.org/committees/technical-committees/soil-improvement/committee-roster) <br/>
+2019 &nbsp;&nbsp;&nbsp;&nbsp;	Secretary, Minnesota Geotechnical Society <br/>
+
+
+### **Awards & Honors**
+2021 &nbsp;&nbsp;&nbsp;&nbsp;	ACEC/Minnesota, Engineering Excellence Awards <br/>
+2020 &nbsp;&nbsp;&nbsp;&nbsp;	National Science Foundation, NSF Graduate Research Fellowship (Honorable Mention) <br/>
+2016 &nbsp;&nbsp;&nbsp;&nbsp;	International Assoc. of Foundation Drilling (ADSC), Ohio Valley Thomas A. Buzek Scholarship<br/>
+2016 &nbsp;&nbsp;&nbsp;&nbsp;	Federal Highway Administration, Dwight David Eisenhower Graduate Fellowship <br/>
