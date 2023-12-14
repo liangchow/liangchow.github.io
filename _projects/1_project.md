@@ -52,6 +52,7 @@ Further improvements in the development of distorted and scanned CPT plots, and 
     Figure 2. Comparison of actual data and extracted data using arithmetic scale.
 </div>
 
+***
 Last update: 10/2023
 
 

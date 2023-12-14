@@ -116,8 +116,7 @@ such as [itertools.combinations_with_replacement( )](https://docs.python.org/3/l
 	# degree = 3, 10 elems: [8, 12, 16, 18, 24, 32, 27, 36, 48, 64]
 
 
-
-Thumbnail photo credit: Makc76
-
+***
+Thumbnail photo credit: Makc76 <br>
 Last update: 10/2023
 
