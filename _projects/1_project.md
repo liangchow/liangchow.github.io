@@ -4,7 +4,7 @@ title: Digitizing CPT Plot
 description: data extraction by computer vision
 img: assets/img/project/thumbnail/01.png
 importance: 1
-category: fun
+category: geo
 related_publications: 
 ---
 
@@ -24,13 +24,13 @@ However, it does a worse job in capturing abrupt features (i.e., spike in tip st
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/qt_thresh.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/qt_00_thresh.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 	<div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/qt_traced_a.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/qt_01_traced.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 	<div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/qt_traced_b.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/qt_02_traced.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,7 +45,7 @@ Further improvements in the development of distorted and scanned CPT plots, and 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/qcv.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/qt_03_cv.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

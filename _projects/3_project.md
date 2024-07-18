@@ -4,7 +4,7 @@ title: SF Young Bay Mud
 description: a brief review of index and consolidation properties
 img: assets/img/project/thumbnail/03.png
 importance: 3
-category: fun
+category: geo
 related_publications: 
 ---
 
@@ -27,7 +27,7 @@ The engineering properties of YBM vary across the Bay Area. Table 1 presents a c
 
 <div class="row justify-content-sm-center">
     <div>
-        {% include figure.html path="assets/img/project/3_table_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/ybm_00_table.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +56,7 @@ The mineralogy and structure of soil directly determine the natural water conten
 
 <div class="row justify-content-sm-center">
     <div>
-        {% include figure.html path="assets/img/project/3_figure_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/ybm_01_fig.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -75,7 +75,7 @@ Where k = permeability; γ<sub>w</sub> = unit weight of water; and a<sub>v</sub>
 
 <div class="row justify-content-sm-center">
     <div>
-        {% include figure.html path="assets/img/project/3_table_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/ybm_02_table.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

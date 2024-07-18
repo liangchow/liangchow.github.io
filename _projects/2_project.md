@@ -4,14 +4,14 @@ title: Soil Type Prediction
 description: binary logistic regression <i>from scratch</i>
 img: assets/img/project/thumbnail/02.png
 importance: 2
-category: fun
+category: geo
 related_publications: 
 ---
 
 To demonstrate the capabilities and advantages of machine learning to my peers, I worked on an underutilized algorithm, binary classification, on a soil dataset. 
 Without using the scikit-learn machine learning library, I developed a logistic regression code with the following objective in mind: 
 
->To prove how blowcounts can be used to predict soil type, with enough data. 
+>To demonstrate how blowcounts can be used to predict soil type, with enough data. 
 
 The training dataset was prepared using several data reduction and transformation techniques, such as feature selection, polynomial feature mapping, and normalization. 
 By using a higher-order, non-linear model, the algorithm achieves training accuracy of about 90% with up to five training features: 
@@ -28,7 +28,7 @@ If you are interested in more details, please continue to read below.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/plot_bc.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/soil_00_bc.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ Hint: the shallower and deeper geological clay deposits shown here are Young Bay
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/plot_data.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/soil_01_data.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
