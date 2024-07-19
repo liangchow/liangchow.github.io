@@ -13,13 +13,13 @@ In California, there are more than a thousand major reservoirs, most of which ar
 As [climate change](https://water.ca.gov/Programs/All-Programs/Climate-Change-Program/Climate-Change-and-Water) increasingly impacts California's water resources, reservoir storage 
 become increasingly variable between years. Water supply projections, therefore, also become challenging and less predictable.
 
-	This project focuses on a reservoir in Napa Valley, California, which serves as one 
-	of the city's three water supplies. In 2020, the valley faced a severe drought, with 
-	reservoir storage expected to plummet to 33% by November. The city declared a water 
-	emergency in July 2020. Unfortunately, there was a three-year gap in the water level 
-	monitoring data as part of the state's reservoir reporting program, spanning from 
-	June 2019 to July 2022. The fundamental goal of this research is to predict or forecast 
-	the missing water levels between June 2019 and June 2022, thus bridging the gap.
+	This project focuses on a reservoir in Napa Valley, California, which serves as one of the
+	city's three water supplies. In 2020, the valley faced a severe drought, with reservoir
+	storage expected to plummet to 33% by November. The city declared a water emergency in July
+	2020. Unfortunately, there was a three-year gap in the water level monitoring data as part
+	of the state's reservoir reporting program, spanning from June 2019 to July 2022. The 
+	fundamental goal of this research is to predict or forecast the missing water levels between
+	June 2019 and June 2022, thus bridging the gap.
 
 The reservoir data is a time series of recorded water levels describing the reservoir capacity over a period of time. Water levels, which are converted to elevation (NAVD88), 
 were manually collected as early 1980s. The data interval varies from occasionally weekly data to, most of the time, monthly data. As a result, the data preparation process was a bit challenging, 
