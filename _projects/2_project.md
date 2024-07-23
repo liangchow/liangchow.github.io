@@ -24,7 +24,8 @@ Depth, N-value, N<sub>6"</sub>, N<sub>12"</sub>, and N<sub>18"</sub>.
 > **90.48%** accuracy with five features <br>
 
 A decision boundary for Depth and N-value are presented below to illustrate the class separation. This exercise is inspired by Andrew Ng's ML Speciliazation on Coursera. 
-If you are interested in more details, please continue to read below.
+If you are interested in more details, please continue to read and check out the Colab workbook: <br>
+[GitHub/soil-type-predictions](https://github.com/liangchow/soil-type-predictions.git)  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -38,21 +39,6 @@ If you are interested in more details, please continue to read below.
 
 
 ***
-
-### Motivations
-
-Interpreting soil type and properties from in-situ testing and measurement data is one of the daily tasks in my field. The most uniquitous, or perhaps the first to be standardized (i.e., ASTM),
-is the Standard Penetration Test (SPT). The SPT test method retrieves soil samples and blowcounts in three consecutive 6 inches, of which the blowcounts of the first 6 inches are neglected as disturbed.
-The sum of the second and last blowcounts is termed the "standard penetration resistance," or N-value, which has been extensively studied and empirically correlated to the stiffness or density of specific soil types.
-In this context, soil type refers to coarse- and fine-grained soils, i.e., sand and clay. Five (5) or "1-2-3" blowcount soil, for instance,
-is regarded as loose sand or medium stiff clay. However, unless the recovered soil sample is visually categorized or verified through additional testing, it is unknown whether the soil type is sand or clay.
-In practice, blowcounts are not used for determining soil type.
-
-This project explored the potential of identifying soil type based on sampling depths and blowcounts, contrary to general practice. The logic behind this is that if drilling mud is used to lessen soil disturbance or stress relief,
-the blowcounts, assuming that the SPT hammer system is properly calibrated and operated at the accepted 60% or higher energy ratio, would correlate strongly to soil type.
-Depth is an important factor as it represents the state of stress of the soil element. In addition, the neglected blowcounts from the first 6 inches of spoon could potentially serve as a valuable
-indicator for different soil types.
-
 
 ### Data Limitations
 
