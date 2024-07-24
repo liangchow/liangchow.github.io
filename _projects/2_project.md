@@ -15,17 +15,13 @@ Without using the scikit-learn machine learning library, I developed a logistic 
 
 The training dataset was prepared using several data reduction and transformation techniques, such as feature selection, polynomial feature mapping, and normalization. 
 By using a higher-order, non-linear model, the algorithm achieves training accuracy of about 90% with up to five training features: 
-Depth, N-value, N<sub>6"</sub>, N<sub>12"</sub>, and N<sub>18"</sub>.
+Depth, N-value, N<sub>6"</sub>, N<sub>12"</sub>, and N<sub>18"</sub>. A decision boundary for Depth and N-value are presented below to illustrate the class separation. 
 
 > **89.68%** accuracy with two features <br> 
 >
 > **91.27%** accuracy with three features <br>
 >
 > **90.48%** accuracy with five features <br>
-
-A decision boundary for Depth and N-value are presented below to illustrate the class separation. This exercise is inspired by Andrew Ng's ML Speciliazation on Coursera. 
-If you are interested in more details, please continue to read and check out the Colab workbook: <br>
-[GitHub/soil-type-predictions](https://github.com/liangchow/soil-type-predictions.git)  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -37,6 +33,19 @@ If you are interested in more details, please continue to read and check out the
 </div>
 <br>
 
+This exercise is inspired by Andrew Ng's ML Speciliazation on Coursera. 
+If you are interested in more details, please continue to read and visit the repository: <br>
+[GitHub/soil-type-predictions](https://github.com/liangchow/soil-type-predictions.git)  
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/project/soil_00_bc.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 1. Second order decision boundary (green) line separating Sand (y=1) and Clay (y=0).
+</div>
+<br>
 
 ***
 
