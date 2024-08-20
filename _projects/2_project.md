@@ -25,7 +25,7 @@ Depth, N-value, N<sub>6"</sub>, N<sub>12"</sub>, and N<sub>18"</sub>. A decision
 
 This exercise is inspired by Andrew Ng's ML Speciliazation on Coursera. 
 If you are interested in more details, please continue to read and visit the repository: <br>
-[GitHub/soil-type-predictions](https://github.com/liangchow/soil-type-predictions.git)  
+[[GitHub/soil-type-predictions]](https://github.com/liangchow/soil-type-predictions.git)  
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
