@@ -18,13 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a geotechnical engineer. Having an experimental background, I have spent the last 10 years working on instrumentation and numerical modeling of real-world problems. 
-My areas of interests are the mechanical responses of geo-materials and, more recently, wave mechanics.
+I am a geotechnical engineer with an experimental background. Over the last 10 years, I have focused on instrumentation and numerical modeling of real-world problems. 
+My areas of interests include the mechanical responses of geo-materials and, more recently, wave mechanics.
 
-Previously, I earned my BSc from the U of Minnesota-Twin Cities and my MSc from the U of Illinois at Urbana-Champaign. 
-In 2020, I was awarded HM for the NSF Graduate Research Fellowship 
-with a research topic in "*brittle creep of basalts for carbon mineralization*". 
-However, due to the pandemic and health issue, my application to further study was withdrawn.
+I earned my BSc from the Uni. of Minnesota-Twin Cities and my MSc from the Uni. of Illinois at Urbana-Champaign. 
+In 2020, I was awarded an honorable mention for the NSF Graduate Research Fellowship 
+with a research topic on "*brittle creep of basalts for carbon mineralization*". 
+Unfortunately, due to a lack of funding, my application to continue my studies was withdrawn.
 
-Despite the setback, I shifted my focus to machine learning. I strive for creativity in my work. 
-In 2021, I started working on a few personal projects using Python and data-driven approaches.
+Despite the setback, I shifted my focus to machine learning, where I strive for creativity in my work. 
+In 2021, I began working on several personal projects using Python and data-driven approaches. In the same year,
+I also became a member of the ASCE G-I Soil Improvement Committee.
