@@ -17,7 +17,7 @@ GeoTechTools encompasses 47 technologies that can be sorted into 11 categories. 
 > [Prefabricated Vertical Drains and Fill Preloading](https://www.geoinstitute.org/node/16159) <br>
 > Expansion of US Highway 14 over organic soils using a combination of PVD (a.k.a. wick drains) and surcharge to minimize post-surcharge secondary settlement.
 >
-> [Excavation and Replacement](https://www.geoinstitute.org/geotechtools/) <br>
+> [Excavation and Replacement](https://www.geoinstitute.org/node/16186) <br>
 > Improvement of I-90 Dresbach Interchange by muck-excavation supplemented with a geotechnical instrumentation and monitoring program.
 
 
