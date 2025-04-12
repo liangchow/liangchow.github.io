@@ -19,7 +19,7 @@ therefore, YBM is typically normally consolidated or slightly overconsolidated, 
 Where it is exposed at the surface, it can be desiccated and stiff with higher OCRs. There are mainly two types of YBM commonly encountered in the San Francisco Bay Area (Johnson and Bartow, 2019). 
 The first type is very soft to soft clay with organic content (CH, OH). This type of soft bay mud is generally characterized by higher plasticity, higher moisture content, lower density, and low shear strength. 
 The second type is more notable in its granular composition: sandy/silty clay (CL, SC) and silty sand (SM). This type of mud deposit primarily consists of soft to medium sandy clay or medium dense silty sand, having lower plasticity, lower moisture content, higher density, and higher shear strength. 
-This article provides a brief review of the engineering properties, primarily the indices and consolidation properties of the first type of YBM, as it is more geotechnically concerning and applicable to the type of work discussed herein.
+This technical note provides a brief review of the engineering properties, primarily the indices and consolidation properties of the first type of YBM, as it is more geotechnically concerning and applicable to the type of work discussed herein.
 
 ### Index Properties
 
