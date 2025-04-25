@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soil Type Prediction
-description: binary logistic regression <i>from scratch</i>
+description: Binary logistic regression <i>from scratch</i>
 img: assets/img/project/thumbnail/02.png
 importance: 2
 category: geo

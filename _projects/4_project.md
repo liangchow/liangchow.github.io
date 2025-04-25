@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reservoir Water
-description: time-series forecasting with SARIMA
+description: Time-series forecasting with SARIMA
 img: assets/img/project/thumbnail/04.png
 importance: 1
 category: climate

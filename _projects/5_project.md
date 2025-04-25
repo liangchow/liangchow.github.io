@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GeoTechTools
-description: technologies case study updates
+description: Technologies case study updates
 img: assets/img/project/thumbnail/05.png
 importance: 4
 category: geo

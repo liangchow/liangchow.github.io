@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digitizing CPT Plot
-description: data extraction by computer vision
+description: <b>OpenCV |</b> Data extraction by computer vision
 img: assets/img/project/thumbnail/01.png
 importance: 1
 category: geo

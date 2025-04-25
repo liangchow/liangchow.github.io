@@ -18,6 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+\
+\
 A geotechnical engineer by qualification, and a climate technologist by trade.
 Based in Oakland, I love to climb, sail, and build all sorts of fun 
-apps.
+stuff. Currently, I focus on building websites and apps.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SF Young Bay Mud
-description: a brief review of index and consolidation properties
+description: A brief review of index and consolidation properties
 img: assets/img/project/thumbnail/03.png
 importance: 3
 category: geo
