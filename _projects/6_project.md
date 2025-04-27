@@ -2,7 +2,7 @@
 layout: page
 title: NOR Project
 description: <b>ReactJS |</b> A map to track legal states
-img: assets/img/project/thumbnail/05.png
+img: assets/img/project/thumbnail/06.png
 importance: 2
 category: climate
 related_publications: 
