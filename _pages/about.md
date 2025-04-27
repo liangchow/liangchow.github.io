@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 \
 \
-A geotechnical engineer by qualification, and a climate technologist by trade.
+A geotechnical engineer by qualification and a climate technologist by trade.
 Based in Oakland, I love to climb, sail, and build all sorts of fun 
-stuff. Currently, I focus on building websites and apps.
+stuff. I am currently focused on creating websites and apps. Follow me on [GitHub](https://github.com/liangchow) to see my projects.
