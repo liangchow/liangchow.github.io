@@ -9,5 +9,6 @@ _ss
 .tweet-cache
 Gemfile.lock
 vendor
-README jekyll.txt
+README jekyll.md
+ideas.md
 
