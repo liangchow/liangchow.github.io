@@ -10,7 +10,7 @@ profile:
   image: profile/lchow.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Oakland, California <br><a href="https://liangchow.github.io/assets/pdf/Resume_lchow.pdf">[Resume]</a></p>
+    <p>Oakland, California</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
