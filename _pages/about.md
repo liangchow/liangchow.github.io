@@ -22,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 \
 A geotechnical engineer by qualification and a climate technologist by trade.
 Based in Oakland, I love to climb, sail, and build all sorts of fun 
-stuff. I am currently focused on creating websites and apps, from 0 &rarr; Hero. Follow me on [GitHub](https://github.com/liangchow) to see my projects.
+stuff. I am currently focused on creating websites and apps, from 0 &rarr; 1. Follow me on [GitHub](https://github.com/liangchow) to see my projects.
