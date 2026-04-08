@@ -2,7 +2,7 @@
 layout: page
 title: quotebyte
 description: Weekly bite-sized newsletter
-img: assets/img/project/thumbnail/07.png
+img: assets/img/project/thumbnail/07a.png
 importance: 1
 category: fun
 related_publications: 
